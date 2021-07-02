@@ -1,0 +1,27 @@
+
+
+# JP正式
+wechat:
+  getToken: true
+  appId: wx51b76f543bc28e2a
+  appSecret: 7f40f412a5e843cee6ce4e2df540f247
+  token: lijie
+  templateMessageId: qJT20-3lGH-iFUvkOeUMQUrCP6Bdt3mRh_U6jgp7y38
+#wechat:
+#  getToken: true
+#  appId: wx434cdf890d37c36f
+#  appSecret: 4e6f3e4b47e2c8f5bc89c86c36e88b7c
+#  token: jpweixin
+#  templateMessageId: griKOyqxmJicXoT-tLKfBnaAPrzT9q9oK75cIYAIHAU
+#wechat:
+#  getToken: true
+#  appId: wxb13e39be16582df4
+#  appSecret: 24b93292ad01e245e0e6596402055c93
+#  token: jpweixin
+#  templateMessageId: _wapKAQHcgMYsKDi0yMvm1ZA3QFenN137gzdUkjX-_c
+#wechat:
+#  getToken: true
+#  appId: wxdb8ccd6463228008
+#  appSecret: 8c1e7276a5a5237a4119e8faaa466205
+#  token: weixin
+#  templateMessageId: griKOyqxmJicXoT-tLKfBnaAPrzT9q9oK75cIYAIHAU
